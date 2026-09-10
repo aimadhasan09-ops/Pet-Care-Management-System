@@ -40,7 +40,7 @@ To run this project, you need:
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+git clone [https://github.com/aimadhasan09-ops/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
 ```
 
 ### 2. Open the project folder
